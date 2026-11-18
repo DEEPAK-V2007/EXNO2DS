@@ -245,6 +245,8 @@ The datasets were successfully cleaned by handling missing values and removing o
 
 In this experiment, I learned how to perform data cleaning and exploratory data analysis using Python, Pandas, and Seaborn. The datasets were imported using `pd.read_csv()` and analyzed to identify missing values and numerical and categorical features.
 
+![alt text](image-29.png)
+
 Missing values were handled using median and mode. The Boxplot method was used to analyze outliers, and the IQR (Interquartile Range) method was applied to remove outliers from the datasets.
 
 Countplot was used to visualize categorical data, while Displot represented the univariate distribution of numerical data. Cross-tabulation was used to analyze relationships between categorical variables, and Heatmap was used to visualize correlations between numerical variables.
